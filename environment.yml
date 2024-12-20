@@ -1,0 +1,11 @@
+name: crop-disease-detection
+channels:
+  - defaults
+dependencies:
+  - tensorflow=2.13.0
+  - numpy=1.24.2
+  - seaborn=0.12.2
+  - matplotlib=3.8.0
+  - opencv-python=4.8.0
+  - pandas=2.1.1
+  - scikit-learn=1.3.0
